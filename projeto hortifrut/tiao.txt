@@ -1,0 +1,18 @@
+================================================================================
+  T I Ã O   D A   L A R A N J A   -   H O L D I N G   &   S E R V I C E S
+================================================================================
+ [ UNIDADE: MATRIZ ]                                  [ TERMINAL DE VENDAS ]
+--------------------------------------------------------------------------------
+
+ BEM-VINDO AO ECOSSISTEMA TIÃO INC.
+ "Do pomar ao tanque: Tecnologia e tradição em cada entrega."
+
+--------------------------------------------------------------------------------
+ SELECIONE O DEPARTAMENTO DESEJADO:
+
+ [1] ━━━━ CATALOGO DE CITRICULTURA (LOJA DE PRODUTOS)
+ [2] ━━━━ ABASTECIMENTO E COMBUSTÍVEIS (GASOLINA)
+ [3] ━━━━ HORTIFRUTI (FRUTAS)
+ [0] ━━━━ ENCERRAR OPERAÇÃO / LOGOUT
+
+--------------------------------------------------------------------------------
