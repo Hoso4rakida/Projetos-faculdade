@@ -1,4 +1,4 @@
-# Projetos-faculdade
+# Projeto Mafra faculdade
 
 - JOE DAVID FERREIRA DA SILVA - 01882177
 - RAFAEL FERREIRA - 01894554
